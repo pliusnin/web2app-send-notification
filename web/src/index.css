@@ -1,0 +1,2 @@
+/* source(".") — Tailwind сканирует только web/src и не читает service-account.json в корне */
+@import 'tailwindcss' source('.');

@@ -1,0 +1,17 @@
+# Зависимости
+node_modules/
+
+# Ключи сервисных аккаунтов — никогда не коммитим
+service-account*.json
+*-firebase-adminsdk-*.json
+
+# IDE и системные файлы
+.idea/
+.vscode/
+.DS_Store
+
+# Локальные настройки Claude Code
+.claude/settings.local.json
+
+# Логи
+*.log
